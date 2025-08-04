@@ -5,10 +5,10 @@ import config
 
 # --- CONFIGURAÇÃO DA PÁGINA E DA API ---
 
-st.set_page_config(page_title="Meu Chatbot Gemini", page_icon="🤖")
+st.set_page_config(page_title="Chatbot Gemini ByPedro", page_icon="🤖")
 
 # Título principal da aplicação
-st.title("🤖 Meu Chatbot com Gemini")
+st.title("🤖Chatbot com Gemini ByPedro")
 st.caption("Um chatbot simples usando a API do Google Gemini e Streamlit")
 
 try:
